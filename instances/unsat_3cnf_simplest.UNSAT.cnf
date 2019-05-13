@@ -1,0 +1,11 @@
+c https://cs.stackexchange.com/questions/20117/whats-an-example-of-an-unsatisfiable-3-cnf-formula
+c
+p cnf 3 8
+1 2 3 0
+1 2 -3 0
+1 -2 3 0
+1 -2 -3 0
+-1 2 3 0
+-1 2 -3 0
+-1 -2 3 0
+-1 -2 -3 0

@@ -1,0 +1,7 @@
+c  no final end clause marker!
+c
+p cnf 2 4
+1 2 0
+-1 2 0
+1 -2 0
+-1 -2
